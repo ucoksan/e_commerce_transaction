@@ -29,3 +29,6 @@ Gustavo just started an e-commerce startup based in Portugal that recently open 
 
 ## Advanced Assignment
 **3. Create user segmentation using cluster analysis. Based on your analysis and interpretation, please also give your recommendation for the business.**
+
+## Customer Segmentation Result
+[Interactive Slide Deck](https://www.canva.com/design/DAE6qC5pAII/VCKZKdsNd3emugqT9C6X3A/view?utm_content=DAE6qC5pAII&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
